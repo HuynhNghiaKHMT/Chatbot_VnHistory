@@ -97,6 +97,8 @@ Các Tính năng RAG Tùy chỉnh (Trong Sidebar)
 Dưới đây là một đoạn video/GIF ngắn minh họa hoạt động của ứng dụng VnHistory mà mình đã triển khai:
 
 <!-- <img src="assets/demo.mp4" width="100%"> -->
+https://github.com/user-attachments/assets/8a4f1a3b-6a1d-4e1c-a68a-c6cc60be2ebe
+
 
 
 ## 💖 Lời cảm ơn
