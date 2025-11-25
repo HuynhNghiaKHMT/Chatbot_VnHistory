@@ -1,0 +1,5 @@
+__pycache__/
+
+env/
+combined_chatbot_env/
+bge_m3_lora-embedding-models/
